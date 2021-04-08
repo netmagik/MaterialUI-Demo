@@ -1,6 +1,6 @@
-# Material UI Demo
+# [Material UI Demo](https://netmagik.github.io/MaterialUI-Demo/)
 
-This demo is based on the Tutorial by [JavaScript Mastery](https://www.youtube.com/watch?v=Xoz31I1FuiY).
+[This demo](https://netmagik.github.io/MaterialUI-Demo/) is based on the Tutorial by [JavaScript Mastery](https://www.youtube.com/watch?v=Xoz31I1FuiY).
 
 ## Available Scripts
 
